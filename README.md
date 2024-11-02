@@ -6,6 +6,10 @@ Written in Zig.
 As a learning project.  
 Buyer beware.
 
+## Currently does literally nothing
+
+Go away.
+
 ## Installing
 
 ```bash
